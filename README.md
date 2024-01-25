@@ -1,3 +1,8 @@
 # Contemporary Issues In Data
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+intro text: purpose of the documents
+## Article 1
+In xxx's [Name](http), sdhsx...
+
+## Article 2
+In xxx's [Name](http), sdhsx...
